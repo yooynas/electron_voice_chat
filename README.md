@@ -7,16 +7,13 @@ cd electron-chat
 npm install
 ```
 
-## Start server
 
-```
-node server
-```
-
-## Start client
+## Start
 
 ```
 electron .
 ```
-
-Please be multiple boot.
+or
+```
+npm start
+```
