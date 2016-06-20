@@ -1,5 +1,5 @@
 const annyang = require('annyang');
-var socket = require('socket.io-client')('http://192.168.0.5:3000');
+var socket = require('socket.io-client')('http://localhost:3000');
 var commands = {'*i': function() {console.log("実行")}};
 
   annyang.addCommands(commands);
