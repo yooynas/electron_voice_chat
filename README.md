@@ -1,7 +1,3 @@
-# Electron chat sample with jQuery
-
-![](https://raw.githubusercontent.com/wiki/naga3/electron-chat/ss.gif)
-
 ## Install
 
 ```
